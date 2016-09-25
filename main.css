@@ -1,7 +1,6 @@
 *{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
-    border :0 solid transparent;
 }
 .bl-background {
     position: relative;
@@ -96,7 +95,6 @@ body {
     font-size: 18px;
 }
 
-
 .bl-buttons{
     margin-right: 1%;
     padding-top: 8px;
@@ -123,10 +121,12 @@ body {
     border: 0px 0px 5px 5px;  
 }
 .circle{
+    border :0 solid transparent;
     color: white;
     border-radius: 100%;
 }
 .radius{
+    border :0 solid transparent;
     border-radius: 5px 5px 5px 5px;
 }
 .bold{
